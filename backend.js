@@ -56,19 +56,20 @@
 /*
     Question 6: Destructure the following body on the back end.
 
-        let body = {
-            firstName: "Jeddy",
-            lastName: "Hwang",
-            age: 26
-        }
-*/
+    */
+   
+   // ANSWER BELOW
+   
+   let body = {
+       firstName: "Jeddy",
+       lastName: "Hwang",
+       age: 26
+   }
 
-// ANSWER BELOW
 
 
 
-
-/*
+   /*
     Question 7: What is a controller file used for? 
 */
 
